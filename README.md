@@ -9,4 +9,4 @@ A Script futtatásához pötyögd be a terminálba:       python dos_hu.py [Áld
 
 # Requirements
 
-Python3
+Python 2 or 3.

@@ -6,3 +6,7 @@ To run this scrpit type this in terminal:            python dos_en.py [victim ip
 
 A Script futtatásához pötyögd be a terminálba:       python dos_hu.py [Áldozat ip] [Port] [csomag]
 
+
+# Requirements
+
+Python3

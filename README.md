@@ -4,4 +4,4 @@ Usage:
 
 chmod +x pythondos.sh
 
-./pythondos.py
+./pythondos.sh

@@ -41,3 +41,5 @@ break;;
 done
 
 python py/dos.py $ip $port $package
+
+exit0
